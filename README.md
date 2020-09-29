@@ -104,4 +104,4 @@ Soon we'll be merging all your changes into the master branch of this project. Y
 
 Congrats! You just completed the standard github workflow that you'll often encounter as a contributor!
 
-You can follow this link to find more begineer friendly projects to contribute, [List of projects]( https://github.com/MunGell/awesome-for-beginners ).
+You can follow this link to find more beginner friendly projects to contribute, [List of projects]( https://github.com/MunGell/awesome-for-beginners ).
