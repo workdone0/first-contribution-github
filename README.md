@@ -21,7 +21,7 @@ This will create a copy of this repository in your account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
-<img align="center" width="40%" src="assets/clone.png" alt="clone this repository" />
+<img align="center" width="80%" src="assets/clone.png" alt="clone this repository" />
 <br>
 
 Open a terminal and run the following git command:
