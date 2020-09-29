@@ -6,13 +6,13 @@ This project aims at providing guidance & simplifying the way beginners make the
 
 #### If you're not comfortable with command line, you can find tutorials on how to use the GUI tool but we recommend using the command line interface(cli).
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="100%" src="assets/fork.png" alt="fork this repository" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
 ## Clone the repository
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="100%" src="assets/clone.png" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
