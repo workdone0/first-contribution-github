@@ -14,13 +14,15 @@ If you don't have git on your machine, [install it]( https://help.github.com/art
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-<img align="right" width="40%" src="assets/fork.png" alt="fork this repository" />
+<img align="center" width="40%" src="assets/fork.png" alt="fork this repository" />
+<br>
 
 ## Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
-<img align="right" width="40%" src="assets/clone.png" alt="clone this repository" />
+<img align="center" width="40%" src="assets/clone.png" alt="clone this repository" />
+<br>
 
 Open a terminal and run the following git command:
 
@@ -35,7 +37,7 @@ git clone https://github.com/your-user-name/first-contribution-github.git
 ```
 where `your-user-name` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
-<img align="right" width="40%" src="assets/cloning.png" alt="cloning" />
+<img align="center" width="40%" src="assets/cloning.png" alt="cloning" />
 
 ## Create a branch
 
