@@ -4,3 +4,4 @@
 - [nygupta](https://github.com/nygupta)
 - [AryanFelix](https://github.com/AryanFelix)
 - [bbasitc1](https://github.com/bbasitc1)
+- [amigangane](https://github.com/amitgangane)
