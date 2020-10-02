@@ -8,3 +8,6 @@
 - [NitinChandak](https://github.com/NitinChandak)
 - [mahima05-hub](https://github.com/mahima05-hub)
 - [a-y-2](https://github.com/a-y-2)
+- [anirudhvsp](https://github.com/anirudhvsp)
+- [harshkr1999](https://github.com/harshkr1999)
+- [dragon-fly-dev](https://github.com/dragon-fly-dev)
