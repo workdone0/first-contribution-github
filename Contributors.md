@@ -13,3 +13,4 @@
 - [harshkr1999](https://github.com/harshkr1999)
 - [dragon-fly-dev](https://github.com/dragon-fly-dev)
 - [Varshit Modi](https://github.com/mrillicit)
+- [Reekraj Roy](https://github.com/REEKRAJROY)
