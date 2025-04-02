@@ -14,3 +14,4 @@
 - [dragon-fly-dev](https://github.com/dragon-fly-dev)
 - [Varshit Modi](https://github.com/mrillicit)
 - [Reekraj Roy](https://github.com/REEKRAJROY)
+- [Don Daniels](https://github.com/donjdanielsjr)
