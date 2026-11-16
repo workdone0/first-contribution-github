@@ -15,3 +15,5 @@
 - [Varshit Modi](https://github.com/mrillicit)
 - [Reekraj Roy](https://github.com/REEKRAJROY)
 - [Don Daniels](https://github.com/donjdanielsjr)
+
+- [Shikhar Sharma](https://github.com/shikjazz)
